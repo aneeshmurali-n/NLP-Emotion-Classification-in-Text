@@ -26,10 +26,12 @@ The SVM classifier with BoW achieved the highest accuracy (91.7%) and demonstrat
 
 To run this project:
 
+Simply [Open Project in Google Colab](https://colab.research.google.com/github/aneeshmurali-n/NLP-Emotion-Classification-in-Text/blob/631d66678a0b161a113698cc93b2800370792570/NLP_Emotion_Classification_in_Text.ipynb)
+
+Otherwise:
 1. Clone the repository.
 2. Install the required libraries: `nltk`, `pandas`, `scikit-learn`.
 3. Execute the Jupyter Notebook provided in the repository.
-or [Open Project in Google Colab](https://colab.research.google.com/github/aneeshmurali-n/NLP-Emotion-Classification-in-Text/blob/631d66678a0b161a113698cc93b2800370792570/NLP_Emotion_Classification_in_Text.ipynb)
 
 ## Dataset
 
